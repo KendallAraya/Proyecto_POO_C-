@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FrmAgendaEspecialista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmBitacora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmBuscarAgenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmBuscarDiagnostico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmBuscarMedicamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmCitas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmDiagnostico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmHistorialPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMedicamentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmBuscarEspecialista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmBuscarFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmBuscarPacientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmEspecialistas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmFuncionarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmPacientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmPagos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

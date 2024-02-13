@@ -1,0 +1,13 @@
+C:\TareasPOO\Proyecto_POO_Kendall\CapaAcessoDatos\bin\Debug\netstandard2.0\CapaAcessoDatos.deps.json
+C:\TareasPOO\Proyecto_POO_Kendall\CapaAcessoDatos\bin\Debug\netstandard2.0\CapaAcessoDatos.dll
+C:\TareasPOO\Proyecto_POO_Kendall\CapaAcessoDatos\bin\Debug\netstandard2.0\CapaAcessoDatos.pdb
+C:\TareasPOO\Proyecto_POO_Kendall\CapaAcessoDatos\bin\Debug\netstandard2.0\CapaEntidades.dll
+C:\TareasPOO\Proyecto_POO_Kendall\CapaAcessoDatos\bin\Debug\netstandard2.0\CapaEntidades.pdb
+C:\TareasPOO\Proyecto_POO_Kendall\CapaAcessoDatos\obj\Debug\netstandard2.0\CapaAcessoDatos.csproj.AssemblyReference.cache
+C:\TareasPOO\Proyecto_POO_Kendall\CapaAcessoDatos\obj\Debug\netstandard2.0\CapaAcessoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\TareasPOO\Proyecto_POO_Kendall\CapaAcessoDatos\obj\Debug\netstandard2.0\CapaAcessoDatos.AssemblyInfoInputs.cache
+C:\TareasPOO\Proyecto_POO_Kendall\CapaAcessoDatos\obj\Debug\netstandard2.0\CapaAcessoDatos.AssemblyInfo.cs
+C:\TareasPOO\Proyecto_POO_Kendall\CapaAcessoDatos\obj\Debug\netstandard2.0\CapaAcessoDatos.csproj.CoreCompileInputs.cache
+C:\TareasPOO\Proyecto_POO_Kendall\CapaAcessoDatos\obj\Debug\netstandard2.0\CapaAcessoDatos.csproj.CopyComplete
+C:\TareasPOO\Proyecto_POO_Kendall\CapaAcessoDatos\obj\Debug\netstandard2.0\CapaAcessoDatos.dll
+C:\TareasPOO\Proyecto_POO_Kendall\CapaAcessoDatos\obj\Debug\netstandard2.0\CapaAcessoDatos.pdb

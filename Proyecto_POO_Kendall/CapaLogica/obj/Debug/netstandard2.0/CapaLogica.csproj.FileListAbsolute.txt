@@ -1,0 +1,15 @@
+C:\TareasPOO\Proyecto_POO_Kendall\CapaLogica\bin\Debug\netstandard2.0\CapaLogica.deps.json
+C:\TareasPOO\Proyecto_POO_Kendall\CapaLogica\bin\Debug\netstandard2.0\CapaLogica.dll
+C:\TareasPOO\Proyecto_POO_Kendall\CapaLogica\bin\Debug\netstandard2.0\CapaLogica.pdb
+C:\TareasPOO\Proyecto_POO_Kendall\CapaLogica\bin\Debug\netstandard2.0\CapaAcessoDatos.dll
+C:\TareasPOO\Proyecto_POO_Kendall\CapaLogica\bin\Debug\netstandard2.0\CapaEntidades.dll
+C:\TareasPOO\Proyecto_POO_Kendall\CapaLogica\bin\Debug\netstandard2.0\CapaAcessoDatos.pdb
+C:\TareasPOO\Proyecto_POO_Kendall\CapaLogica\bin\Debug\netstandard2.0\CapaEntidades.pdb
+C:\TareasPOO\Proyecto_POO_Kendall\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.csproj.AssemblyReference.cache
+C:\TareasPOO\Proyecto_POO_Kendall\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\TareasPOO\Proyecto_POO_Kendall\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.AssemblyInfoInputs.cache
+C:\TareasPOO\Proyecto_POO_Kendall\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.AssemblyInfo.cs
+C:\TareasPOO\Proyecto_POO_Kendall\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.csproj.CoreCompileInputs.cache
+C:\TareasPOO\Proyecto_POO_Kendall\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.csproj.CopyComplete
+C:\TareasPOO\Proyecto_POO_Kendall\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.dll
+C:\TareasPOO\Proyecto_POO_Kendall\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.pdb

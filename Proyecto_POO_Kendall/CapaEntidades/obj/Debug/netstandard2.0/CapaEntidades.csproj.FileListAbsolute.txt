@@ -1,0 +1,10 @@
+C:\TareasPOO\Proyecto_POO_Kendall\CapaEntidades\bin\Debug\netstandard2.0\CapaEntidades.deps.json
+C:\TareasPOO\Proyecto_POO_Kendall\CapaEntidades\bin\Debug\netstandard2.0\CapaEntidades.dll
+C:\TareasPOO\Proyecto_POO_Kendall\CapaEntidades\bin\Debug\netstandard2.0\CapaEntidades.pdb
+C:\TareasPOO\Proyecto_POO_Kendall\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.csproj.AssemblyReference.cache
+C:\TareasPOO\Proyecto_POO_Kendall\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\TareasPOO\Proyecto_POO_Kendall\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.AssemblyInfoInputs.cache
+C:\TareasPOO\Proyecto_POO_Kendall\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.AssemblyInfo.cs
+C:\TareasPOO\Proyecto_POO_Kendall\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\TareasPOO\Proyecto_POO_Kendall\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.dll
+C:\TareasPOO\Proyecto_POO_Kendall\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.pdb
